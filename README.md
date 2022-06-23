@@ -1,5 +1,6 @@
-Simple React todo app
-
+•	The app was built using react and all reusable components were rendered efficiently.
+• UseState hook was used to manage states.
+• Click on a todo item to remove it from list.
 <!-- # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
